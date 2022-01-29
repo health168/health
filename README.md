@@ -15,5 +15,5 @@ Website: https://github.com/health168/health/
 
 Discord: https://discord.gg/ZPmtDxRuXX
 
-logo：https://images.taildatabase.com/tails/b715e186-2c71-45e2-972f-c581b2f6ad1f.png
+
 
